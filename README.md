@@ -1,7 +1,5 @@
 # Hey there 👋, I'm Patrik!
 
-I like **Software Engineering** and **Data Engineering**.
+I like **Engineering**, **Economy**, and **(Solar) Energy**.
 
-Reach me on [Twitter](https://twitter.com/patrikbraborec) or [Linkedin](https://www.linkedin.com/in/patrik-braborec-aa347b115/). I love to chat with everyone about everything! ❤️
-
-![](https://komarev.com/ghpvc/?username=patrikbraborec)
+Reach me on [Twitter](https://twitter.com/patrikbraborec), [Linkedin](https://www.linkedin.com/in/patrik-braborec-aa347b115/), or my [website](https://patrikbraborec.com/).
